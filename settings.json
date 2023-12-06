@@ -1,0 +1,18 @@
+{
+  "main": {
+    "settings": {
+      "start-on-last-position": "on", // off = starts in the centre of the screen 
+      "start-on-last-visited": "on"
+    },
+    "startup": {
+      "last-position": {
+        "x-value": 700,
+        "y-value": 700
+      },
+      "last-visited-page": "C:/"
+    }
+  },
+  "keyboard-shortcuts": {
+
+  }
+}
