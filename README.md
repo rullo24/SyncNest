@@ -4,7 +4,7 @@ SyncNest is a lightweight file explorer written in Go, designed to provide a sea
 
 ## Features
 
-- **Custom Shortcuts:** Tailor your navigation with personalised shortcuts for quick access to frequently used directories.
+- **Custom Shortcuts:** Tailor your navigation with personalized shortcuts for quick access to frequently used directories.
 
 - **FTP Client:** Easily connect to remote servers using the built-in FTP client, allowing you to manage files both locally and on external servers.
 
@@ -36,12 +36,12 @@ SyncNest is a lightweight file explorer written in Go, designed to provide a sea
 
 Feel free to open issues for bug reports or feature requests. Contributions are also welcome!
 
-## Wails License Notice
+## Fyne License Notice
 
-This application utilizes the Wails framework, and all rights to Wails are reserved to the Wails project contributors. Please refer to the [Wails GitHub repository](https://github.com/wailsapp/wails) for information on the license and terms of use for the Wails framework.
+This application utilizes the Fyne framework, and all rights to Fyne are reserved to the Fyne project contributors. Please refer to the [Fyne GitHub repository](https://github.com/fyne-io/fyne) for information on the license and terms of use for the Fyne framework.
 
-### Wails License Information
+### Fyne License Information
 
-This application is not affiliated with the Wails project and is subject to its own license terms. Please refer to the application's individual license file for more information on its licensing terms.
+This application is not affiliated with the Fyne project and is subject to its own license terms. Please refer to the application's individual license file for more information on its licensing terms.
 
 **Happy navigating with SyncNest!**
