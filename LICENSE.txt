@@ -1,2 +1,41 @@
-Icons used from Fyne package or https://uxwing.com/code-icon/
-    --> uxwing License: All icons are free to use any personal and commercial projects without any attribution or credit License pagehas a 
+### License Information for SyncNest and Its Dependencies ###
+
+## SyncNest:
+SyncNest Software License
+Version 1.0, 10-12-2023
+
+BY USING THIS SOFTWARE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SOFTWARE.
+
+1. Grant of License:
+   Subject to the terms and conditions of this License, The SyncNest Developers grant you a non-exclusive, non-transferable, royalty-free license to use the SyncNest software (the "Software") for personal or commercial purposes.
+
+2. Restrictions:
+   You may not:
+   a. Replicate or copy the Software, in whole or in part, for resale.
+
+3. Ownership:
+   The SyncNest Developers retain all rights, title, and interest in and to the Software, including all intellectual property rights.
+
+4. Warranty Disclaimer:
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+5. Limitation of Liability:
+   The SyncNest Developers SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+6. Termination:
+   This License is effective until terminated. The SyncNest Developers may terminate this License at any time without notice if you fail to comply with any term of this License. Upon termination, you must cease all use of the Software.
+
+7. Governing Law:
+   This License shall be governed by and construed in accordance with the laws of Australia.
+
+## fyne.io/fyne/v2 v2.4.2:
+License: BSD 3-Clause License
+Copyright (C) 2018 Fyne.io developers (see AUTHORS)
+All rights reserved.
+
+## github.com/go-vgo/robotgo v0.110.0:
+License: Apache License Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+## UxWing Icons:
+Source: https://uxwing.com/
